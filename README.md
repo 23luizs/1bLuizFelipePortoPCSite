@@ -1,3 +1,3 @@
-# 1bLuizFelipePortoPCSite
-# BomDia # BlocoDeNotas
-# AulaDePC # MaisNovo # EscolaDeLondrina
+# Luiz Felipe Porto
+## 1mB
+### Newton Guimaraes
